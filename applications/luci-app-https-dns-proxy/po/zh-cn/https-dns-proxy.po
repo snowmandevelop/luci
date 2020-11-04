@@ -1,5 +1,20 @@
+#
+# Yangfl <mmyangfl@gmail.com>, 2019.
+#
 msgid ""
-msgstr "Content-Type: text/plain; charset=UTF-8"
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2020-07-31 18:42+0000\n"
+"Last-Translator: Zkdc <Zkdc2345@qq.com>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"openwrt/luciapplicationshttps-dns-proxy/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.2-dev\n"
 
 #: applications/luci-app-https-dns-proxy/luasrc/model/cbi/https-dns-proxy.lua:72
 msgid "%s is not installed or not found"
@@ -7,11 +22,11 @@ msgstr ""
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers/com.adguard.dns-family.lua:3
 msgid "AdGuard (Family Protection)"
-msgstr ""
+msgstr "AdGuard（家庭保护）"
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers/com.adguard.dns.lua:3
 msgid "AdGuard (Standard)"
-msgstr ""
+msgstr "AdGuard（标准）"
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers/com.alidns.dns.lua:3
 msgid "AliDNS"
@@ -31,19 +46,19 @@ msgstr ""
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers/org.cleanbrowsing.doh-adult.lua:3
 msgid "CleanBrowsing (Adult Filter)"
-msgstr ""
+msgstr "CleanBrowsing（成人过滤器）"
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers/org.cleanbrowsing.doh-family.lua:3
 msgid "CleanBrowsing (Family Filter)"
-msgstr ""
+msgstr "CleanBrowsing（家庭过滤器）"
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers/org.cleanbrowsing.doh-security.lua:3
 msgid "CleanBrowsing (Security Filter)"
-msgstr ""
+msgstr "CleanBrowsing（安全筛选器）"
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers/com.cloudflare-dns.lua:3
 msgid "Cloudflare"
-msgstr ""
+msgstr "Cloudflare"
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers/com.cloudflare-dns.family.lua:3
 msgid "Cloudflare (Family Protection)"
@@ -63,7 +78,7 @@ msgstr ""
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers.disabled/sb.dns.lua:3
 msgid "DNS.SB"
-msgstr ""
+msgstr "DNS.SB"
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers/pub.doh.lua:3
 msgid "DNSPod.cn Public DNS"
@@ -71,51 +86,51 @@ msgstr ""
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers.disabled/ch.digitale-gesellschaft.dns.lua:3
 msgid "Digitale Gesellschaft"
-msgstr ""
+msgstr "Digitale Gesellschaft"
 
 #: applications/luci-app-https-dns-proxy/luasrc/view/https-dns-proxy/buttons.htm:57
 msgid "Disable"
-msgstr ""
+msgstr "禁用"
 
 #: applications/luci-app-https-dns-proxy/luasrc/view/https-dns-proxy/buttons.htm:54
 msgid "Enable"
-msgstr ""
+msgstr "启用"
 
 #: applications/luci-app-https-dns-proxy/luasrc/model/cbi/https-dns-proxy.lua:27
 msgid "For more information on different options check"
-msgstr ""
+msgstr "有关不同选项的更多信息，请检查"
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers/google.dns.lua:3
 msgid "Google"
-msgstr ""
+msgstr "谷歌"
 
 #: applications/luci-app-https-dns-proxy/luasrc/model/cbi/https-dns-proxy.lua:126
 msgid "Instances"
-msgstr ""
+msgstr "实例"
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers/gr.libredns.doh.lua:3
 msgid "LibreDNS"
-msgstr ""
+msgstr "LibreDNS"
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers/gr.libredns.doh-ads.lua:3
 msgid "LibreDNS (No Ads)"
-msgstr ""
+msgstr "LibreDNS（无广告）"
 
 #: applications/luci-app-https-dns-proxy/luasrc/model/cbi/https-dns-proxy.lua:160
 msgid "Listen address"
-msgstr ""
+msgstr "监听地址"
 
 #: applications/luci-app-https-dns-proxy/luasrc/model/cbi/https-dns-proxy.lua:173
 msgid "Listen port"
-msgstr ""
+msgstr "监听端口"
 
 #: applications/luci-app-https-dns-proxy/luasrc/view/https-dns-proxy/js.htm:52
 msgid "Loading"
-msgstr ""
+msgstr "加载中"
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers/cz.nic.odvr.lua:3
 msgid "ODVR (nic.cz)"
-msgstr ""
+msgstr "ODVR （nic.cz）"
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers/com.opendns.doh.lua:3
 msgid "OpenDNS"
@@ -127,31 +142,31 @@ msgstr ""
 
 #: applications/luci-app-https-dns-proxy/luasrc/model/cbi/https-dns-proxy.lua:177
 msgid "Proxy server"
-msgstr ""
+msgstr "代理服务器"
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers/net.quad9.dns.lua:3
 msgid "Quad 9 (Recommended)"
-msgstr ""
+msgstr "Quad 9（推荐）"
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers/net.quad9.dns11.lua:3
 msgid "Quad 9 (Secured with ECS Support)"
-msgstr ""
+msgstr "Quad 9（获得ECS支持）"
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers/net.quad9.dns9.lua:3
 msgid "Quad 9 (Secured)"
-msgstr ""
+msgstr "Quad 9（安全）"
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers/net.quad9.dns10.lua:3
 msgid "Quad 9 (Unsecured)"
-msgstr ""
+msgstr "Quad 9（不安全）"
 
 #: applications/luci-app-https-dns-proxy/luasrc/view/https-dns-proxy/buttons.htm:44
 msgid "Reload"
-msgstr ""
+msgstr "重新载入"
 
 #: applications/luci-app-https-dns-proxy/luasrc/model/cbi/https-dns-proxy.lua:133
 msgid "Resolver"
-msgstr ""
+msgstr "解析器"
 
 #: applications/luci-app-https-dns-proxy/luasrc/model/cbi/https-dns-proxy.lua:98
 msgid "Running: %s DoH at %s:%s"
@@ -159,7 +174,7 @@ msgstr ""
 
 #: applications/luci-app-https-dns-proxy/luasrc/model/cbi/https-dns-proxy.lua:110
 msgid "Service Status"
-msgstr ""
+msgstr "服务状态"
 
 #: applications/luci-app-https-dns-proxy/luasrc/model/cbi/https-dns-proxy.lua:108
 msgid "Service Status [%s %s]"
@@ -167,19 +182,19 @@ msgstr ""
 
 #: applications/luci-app-https-dns-proxy/luasrc/view/https-dns-proxy/buttons.htm:41
 msgid "Start"
-msgstr ""
+msgstr "启动"
 
 #: applications/luci-app-https-dns-proxy/luasrc/view/https-dns-proxy/buttons.htm:47
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 #: applications/luci-app-https-dns-proxy/luasrc/model/cbi/https-dns-proxy.lua:76
 msgid "Stopped"
-msgstr ""
+msgstr "已停止"
 
 #: applications/luci-app-https-dns-proxy/luasrc/model/cbi/https-dns-proxy.lua:63
 msgid "Unknown Provider"
-msgstr ""
+msgstr "未知的提供商"
 
 #: applications/luci-app-https-dns-proxy/luasrc/model/cbi/https-dns-proxy.lua:127
 msgid ""
@@ -189,12 +204,12 @@ msgstr ""
 
 #: applications/luci-app-https-dns-proxy/luasrc/model/cbi/https-dns-proxy.lua:48
 msgid "and"
-msgstr ""
+msgstr "和"
 
 #: applications/luci-app-https-dns-proxy/luasrc/model/cbi/https-dns-proxy.lua:78
 msgid "disabled"
-msgstr ""
+msgstr "已禁用"
 
 #: applications/luci-app-https-dns-proxy/luasrc/https-dns-proxy/providers.disabled/cn.rubyfish.dns.lua:3
 msgid "rubyfish.cn"
-msgstr ""
+msgstr "rubyfish.cn"
